@@ -1,0 +1,1 @@
+(self.webpackChunkTopWrite=self.webpackChunkTopWrite||[]).push([[302],{2302:e=>{"use strict";e.exports=JSON.parse('{"IHXx7d":"Powered By {link}","R10y2x":"TopWrite","n24ytq":"Untitled"}')}}]);
