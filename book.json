@@ -15,5 +15,8 @@
         }
     },
     "title": "新的文档新的文档新的文档名称测试d\\d",
-    "theme": "classic"
+    "theme": "classic",
+    "plugins": [
+        "highlight"
+    ]
 }
