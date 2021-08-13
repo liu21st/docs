@@ -16,6 +16,7 @@
     },
     "title": "顶想云写作服务",
     "plugins": [
-        "highlight"
+        "highlight",
+        "tex"
     ]
 }
