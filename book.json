@@ -18,5 +18,6 @@
     "plugins": [
         "highlight",
         "tex"
-    ]
+    ],
+    "theme": "maxime"
 }
