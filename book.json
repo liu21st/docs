@@ -17,7 +17,8 @@
     "title": "顶想云写作服务",
     "plugins": [
         "highlight",
-        "tex"
+        "upyun",
+        "lunrjs"
     ],
-    "theme": "maxime"
+    "theme": "classic"
 }
